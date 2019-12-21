@@ -1,0 +1,4 @@
+User-agent: Googlebot
+Disallow: 
+
+crawl-delay: 60
